@@ -9,5 +9,6 @@ namespace ConsoleApp1
     internal class NewClass
     {
         public int Age { get; set; }
+        public string Name { get; set; }
     }
 }
